@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm AmirAli Cheraghi
 
-<!--
-**amirali-cheraghi-cyber/AmirAli-Cheraghi-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**High-School Student | Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+| **Languages** | **Operating Systems** | **Domains** |
+
+| 🐍 **Python** | 🐧 **Linux** | 💻 **(BlackArch Linux---Kali Linux)** | 📡 **Networking** |
+| 🦔 **Go** | 🔍 **Penetration Testing** |
+| ⚡ **JavaScript** | 🛡️ **Ethical Hacking** |
+| 🧱 **C** | 🌐 **Web Security** |
+| 🌐 **HTML/CSS** | 🛠️ **Arduino** |
+| 📝 **WordPress** | 
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email**: `amirali.cheraghi2009@gmail.com`
+- 🎓 **Education**: High School Student
+- 🌐 **Location**: Iran
+
+---
+
+<div align="center">
+  <strong>Passionate about learning and securing digital systems.</strong>
+</div>
+
