@@ -1,88 +1,28 @@
-<!-- Typewriter Effect Header -->
-<div align="center">
-  <h1 style="font-family: 'Courier New', monospace; color: #00ff00;">
-    <span id="typewriter"></span><span style="animation: blink 1s infinite;">|</span>
-  </h1>
-</div>
+🌊 WaterMap Scanner
+An Advanced and Lightweight Port Scanner for Linux and Servers
 
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
+Status: 🚧 In Development (Will be released after final testing)
 
-<script>
-  const text = "AmirAli Cheraghi | Cybersecurity Enthusiast 🛡️";
-  const speed = 100; 
-  let i = 0;
+📖 About the Project
+WaterMap Scanner is a powerful tool designed for port scanning with a focus on speed and optimization. It is available in both Graphical (GUI) and Command Line (CLI) interfaces, running seamlessly on Linux systems and Linux servers.
 
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typewriter").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
+Built with the powerful Go (Golang) language and featuring a modern interface using HTML and CSS, this tool delivers a smooth and professional user experience.
 
- 
-  window.onload = typeWriter;
-</script>
+✨ Key Features & Advantages
+⚡ Optimized Go Code: Utilizes the most efficient Go code for maximum speed.
 
-<!-- Divider -->
-<br>
+📉 Minimal Traffic: Designed to introduce the absolute minimum traffic to the network.
 
-<!-- About Me -->
-<div align="center">
-  <h2>👋 Hello, I'm AmirAli</h2>
-  <p>
-    High-School Student from <b>Iran</b> 🇮🇷 <br>
-    Passionate about <b>Cybersecurity</b>, <b>Linux</b>, and <b>Penetration Testing</b>.
-  </p>
-</div>
+🛡️ Bandwidth Protection: Prevents bandwidth saturation through intelligent packet management.
 
-<!-- Skills with Stickers/Emojis -->
-<div align="center">
-  <h2>🛠️ My Tech Stack</h2>
-  <table align="center">
-    <tr>
-      <th>💻 Languages</th>
-      <th>🐧 OS & Tools</th>
-      <th>🔒 Domains</th>
-    </tr>
-    <tr>
-      <td>
-        🐍 Python<br>
-        🦔 Go<br>
-        ⚡ JavaScript<br>
-        🧱 C
-      </td>
-      <td>
-        🐧 Linux (Kali/BlackArch)<br>
-        🛠️ Arduino<br>
-        📡 Wireshark
-      </td>
-      <td>
-        🔍 Penetration Testing<br>
-        🛡️ Ethical Hacking<br>
-        🌐 Web Security<br>
-        📝 WordPress
-      </td>
-    </tr>
-  </table>
-</div>
+📦 Optimized Packets: Uses highly optimized scanning packets for high accuracy.
 
-<!-- Connect -->
-<div align="center">
-  <h2>📫 Let's Connect</h2>
-  <p>
-    📧 Email: <a href="mailto:amirali.cheraghi2009@gmail.com">amirali.cheraghi2009@gmail.com</a><br>
-    🌐 Location: Iran
-  </p>
-</div>
+📖 Clean & Readable Code: Simple, well-structured, and easy-to-understand codebase.
 
-<!-- Footer -->
-<div align="center">
-  <p>Made with ❤️ & ☕ by AmirAli Cheraghi</p>
-</div>
+🪶 Lightweight: Extremely small size with low resource consumption.
+
+🛠️ Easy Installation & Usage: Simple interface for quick and easy access.
+
+👨‍💻 Creator & Developer
+AmirAli Cheraghi from Iran 
 
