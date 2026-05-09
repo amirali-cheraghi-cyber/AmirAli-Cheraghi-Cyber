@@ -91,38 +91,7 @@
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/AmirAli-Cheraghi-Cyber&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?AmirAli-Cheraghi-Cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmirAli-Cheraghi-Cyber/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## ✨ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/AmirAli-Cheraghi-Cyber&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
