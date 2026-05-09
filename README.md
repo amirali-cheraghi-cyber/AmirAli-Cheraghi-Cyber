@@ -1,6 +1,4 @@
 
-     GITHUB PROFILE README
-     Copy everything into README.md
 
 
 <!-- ===== HEADER IMAGE (OPTIONAL) ===== -->
