@@ -59,6 +59,7 @@
       🐧 Linux<br>
       🖤 BlackArch Linux<br>
       🐲 Kali Linux
+      🍎 MacOS
     </td>
     <td align="center">
       📡 Networking<br>
