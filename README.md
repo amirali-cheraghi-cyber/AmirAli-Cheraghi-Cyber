@@ -1,136 +1,152 @@
-<!-- =========================
-     GITHUB PROFILE README
-     Copy everything into README.md
-========================= -->
-
 <!-- ===== HEADER IMAGE (OPTIONAL) ===== -->
-<!-- Replace the link below with your own header image or GIF -->
+<!-- Replace the link below with your own header image or GIF and remove the comment markers -->
 <!-- Example:
 <p align="center">
   <img src="https://your-image-link.com/header.gif" alt="header" width="100%" />
 </p>
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+AmirAli+Cheraghi;High-School+Student+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
+<div align="center">
+
+<h1 style="color: #008000; font-weight: bold; font-family: 'Arial Black', Gadget, sans-serif;">
+  < Typing effect will be applied via JavaScript if supported, otherwise plain text -->
+  <span id="typing-effect"></span>
+</h1>
+
+<style>
+  /* Basic styling for typing effect - will be enhanced by JS if available */
+  .typing-text {
+    border-right: 3px solid #008000; /* Blinking cursor */
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+  }
+</style>
+
+<script>
+  // Simple typing effect for modern browsers.
+  // Fallback to plain text if JS is disabled or for unsupported browsers.
+  const typedTextSpan = document.getElementById("typing-effect");
+  const textArray = ["Hello, I'm AmirAli Cheraghi", "High-School Student | Cybersecurity Enthusiast"];
+  let textIndex = 0;
+  let charIndex = 0;
+  let typingDelay = 150;
+  let erasingDelay = 50;
+  let newTextDelay = 1000;
+
+  function type() {
+    if (charIndex < textArray[textIndex].length) {
+      typedTextSpan.innerHTML += textArray[textIndex].charAt(charIndex);
+      charIndex++;
+      setTimeout(type, typingDelay);
+    } else {
+      setTimeout(erase, newTextDelay);
+    }
+  }
+
+  function erase() {
+    if (charIndex > 0) {
+      typedTextSpan.innerHTML = textArray[textIndex].substring(0, charIndex - 1);
+      charIndex--;
+      setTimeout(erase, erasingDelay);
+    } else {
+      textIndex++;
+      if (textIndex >= textArray.length) textIndex = 0;
+      setTimeout(type, typingDelay);
+    }
+  }
+
+  // Start the typing effect
+  document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(type, newTextDelay);
+  });
+</script>
+
+</div>
+
+<!-- ===== ABOUT ME ===== -->
+<p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 20px;">
+  My Abilities & Knowledge
 </p>
 
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm AmirAli Cheraghi</h3>
-
-<p align="center">
-  <b>High-School Student</b> • <b>Cybersecurity Enthusiast</b>
-</p>
-
-<p align="center">
-  Passionate about Linux, networking, penetration testing, and web security.
-</p>
-
----
-
-## 🚀 My Abilities
-
-- 🎓 High-School Student
-- 🛡️ Cybersecurity & Ethical Hacking Enthusiast
-- 🐧 Linux Specialist
-- 🌐 Web Security & Networking Expert
-- 🔍 Learning & Building new tools
-
----
-
-## 🛠️ Skills & Technologies
-
-<table align="center">
+<table align="center" style="width: 80%; border-collapse: collapse; margin-top: 15px;">
   <tr>
-    <th>💻 Languages</th>
-    <th>🖥️ Operating Systems</th>
-    <th>🌐 Domains</th>
+    <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #006400; color: white; font-weight: bold;">Languages</td>
+    <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #228B22;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="30" height="30" />
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      🐍 Python<br>
-      🦔 Go<br>
-      ⚡ JavaScript<br>
-      🧱 C<br>
-      🌐 HTML / CSS<br>
-      📝 WordPress
+    <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #006400; color: white; font-weight: bold;">Operating Systems</td>
+    <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #228B22;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /> <!-- VS Code as an OS-like environment -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows10/windows10-original.svg" alt="windows10" width="30" height="30" />
     </td>
-    <td align="center">
-      🐧 Linux<br>
-      🖤 BlackArch Linux<br>
-      🐲 Kali Linux
-    </td>
-    <td align="center">
-      📡 Networking<br>
-      🔍 Penetration Testing<br>
-      🛡️ Ethical Hacking<br>
-      🌐 Web Security<br>
-      🛠️ Arduino
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #006400; color: white; font-weight: bold;">Domains & Tools</td>
+    <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #228B22;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="30" height="30" /> <!-- Assuming GoLang was intended -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="30" height="30" /> <!-- Generic Jetbrains, can represent GoLand/PyCharm -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30" />
+      <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-robot@main/icons/linux.svg" alt="linux" width="30" height="30" /> <!-- Placeholder for Linux specific tools -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networking/networking-original.svg" alt="networking" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="security" width="30" height="30" /> <!-- Placeholder for security -->
     </td>
   </tr>
 </table>
 
----
 
-## 💻 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,c,html,css,linux,wordpress,git,github,vscode,pycharm" alt="Tools I Use" />
+<!-- ===== CONTACT ME ===== -->
+<p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 40px;">
+  Connect With Me
 </p>
 
----
-
-## 📫 Contact Me
-
 <p align="center">
-  <a href="mailto:amirali.cheraghi2009@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=white&link=mailto:amirali.cheraghi2009@gmail.com" alt="Gmail" height="30"/>
+  <a href="mailto:amirali.cheraghi2009@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="60" height="60" style="border-radius: 10px;"/>
   </a>
-  <a href="https://instagram.com/amirali.cheraghi8" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white&link=https://instagram.com/amirali.cheraghi8" alt="Instagram" height="30"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/amirali.cheraghi8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-plain.svg" alt="instagram" width="60" height="60" style="border-radius: 10px;"/>
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+<!-- ===== GITHUB STATS ===== -->
+<p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 40px;">
+  My GitHub Stats
 </p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=008000&icon_color=008000&text_color=32CD32&bg_color=000000&hide=stars" alt="GitHub Stats"/>
+</div>
 
-## 🔥 GitHub Streak
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=000000&stroke=008000&ring=32CD32&fire=FF0000&currStreakLabel=008000&sideLabels=32CD32&datesAlign=center&ring=008000&currStreakNum=008000&sideNums=32CD32" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&currStreakLabel=🔥 Current Streak" alt="GitHub Streak" />
+
+<!-- ===== CONTRIBUTION SNAKE & VIEWS ===== -->
+<p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 40px;">
+  My Contribution Graph & Profile Views
 </p>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=008000&line=32CD32&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
-## 🐍 Contribution Snake
+<!-- Placeholder for a more refined profile view counter if needed -->
+<div align="center" style="margin-top: 15px;">
+  <img src="https://komarev.com/ghpvc/stars/AmirAli-cheraghi-cyber/color=008000&title=Profile%20Views&style=flat-square&logo=eye" alt="Profile Views"/>
+</div>
 
-<p align="center">
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 🚀 Profile Views
-
-<p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge&logo=Eye" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <i>⚡ Building skills today to secure the systems of tomorrow ⚡</i>
-</p>
