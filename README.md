@@ -75,7 +75,7 @@
 ## 🔧 Tools I Like
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,c,html,css,linux,wordpress,git,github,vscode,pycharm,docker,Arduino,Mysql" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,c,html,css,linux,wordpress,git,github,vscode,pycharm,docker,Arduino,SQL" />
 </p>
 
 ---
