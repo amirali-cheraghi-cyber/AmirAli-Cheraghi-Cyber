@@ -1,7 +1,7 @@
 
      GITHUB PROFILE README
      Copy everything into README.md
-========================= -->
+
 
 <!-- ===== HEADER IMAGE (OPTIONAL) ===== -->
 <!-- Replace the link below with your own header image or GIF -->
