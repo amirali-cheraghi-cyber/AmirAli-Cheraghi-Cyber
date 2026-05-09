@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h1 style="color: #008000; font-weight: bold; font-family: 'Arial Black', Gadget, sans-serif;">
+<h1 style="color: #008000; font-weight: bold; font-family: 'Fira Code', monospace;">
   < Typing effect will be applied via JavaScript if supported, otherwise plain text -->
   <span id="typing-effect"></span>
 </h1>
@@ -86,25 +86,24 @@
     <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #006400; color: white; font-weight: bold;">Operating Systems</td>
     <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #228B22;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /> <!-- VS Code as an OS-like environment -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows10/windows10-original.svg" alt="windows10" width="30" height="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blackarch/blackarch-original.svg" alt="blackarch" width="30" height="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="kali" width="30" height="30" />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #006400; color: white; font-weight: bold;">Domains & Tools</td>
     <td align="center" style="padding: 10px; border: 1px solid #008000; background-color: #228B22;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="30" height="30" /> <!-- Assuming GoLang was intended -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="30" height="30" /> <!-- Generic Jetbrains, can represent GoLand/PyCharm -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="30" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30" />
-      <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-robot@main/icons/linux.svg" alt="linux" width="30" height="30" /> <!-- Placeholder for Linux specific tools -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networking/networking-original.svg" alt="networking" width="30" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="security" width="30" height="30" /> <!-- Placeholder for security -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="security" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="30" height="30" />
     </td>
   </tr>
 </table>
-
 
 <!-- ===== CONTACT ME ===== -->
 <p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 40px;">
@@ -128,13 +127,12 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=008000&icon_color=008000&text_color=32CD32&bg_color=000000&hide=stars" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-cheraghi-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=000000&stroke=008000&ring=32CD32&fire=FF0000&currStreakLabel=008000&sideLabels=32CD32&datesAlign=center&ring=008000&currStreakNum=008000&sideNums=32CD32" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAli-cheraghi-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
-
 
 <!-- ===== CONTRIBUTION SNAKE & VIEWS ===== -->
 <p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 40px;">
@@ -142,11 +140,27 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=008000&line=32CD32&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirAli-cheraghi-cyber&bg_color=000000&color=008000&line=32CD32&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<!-- Placeholder for a more refined profile view counter if needed -->
 <div align="center" style="margin-top: 15px;">
-  <img src="https://komarev.com/ghpvc/stars/AmirAli-cheraghi-cyber/color=008000&title=Profile%20Views&style=flat-square&logo=eye" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AmirAli-cheraghi-cyber&label=Profile%20Views&color=8A2BE2&style=for-the-badge&logo=Eye" alt="Profile Views"/>
 </div>
+
+<p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 40px;">
+  GitHub Streak
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AmirAli-cheraghi-cyber&theme=tokyonight&hide_border=true&currStreakLabel=🔥 Current Streak" alt="GitHub Streak"/>
+</div>
+
+<p align="center" style="font-size: 1.2em; color: #32CD32; font-weight: bold; margin-top: 40px;">
+  Contribution Snake
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmirAli-cheraghi-cyber/AmirAli-cheraghi-cyber/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 
