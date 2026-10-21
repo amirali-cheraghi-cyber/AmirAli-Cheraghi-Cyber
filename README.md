@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  High-School Student | CTF Team Captain | Aspiring Security Researcher
+  High-School Student | CTF Team Captain | Self-Taught Learner
 </p>
 
 <p align="center">
@@ -28,13 +28,13 @@
 
 ## About
 
-I am a high-school student building a strong foundation in computer science and cybersecurity through structured learning, independent projects, and competitive problem-solving.
+I am a high-school student passionate about computer science and cybersecurity, developing my technical skills primarily through **self-directed learning, independent research, hands-on experimentation, and practical projects**.
 
 As **Team Captain of Shahin in the Tech Olympics 2026 Hardware CTF**, I contribute to technical preparation, collaborative problem-solving, and hardware-oriented security challenges.
 
-My primary interests are **hardware and firmware security, embedded systems, and low-level software**. I am also exploring cryptography, digital forensics, binary exploitation, mobile security, networking, and web application security.
+My main interests are hardware and firmware security, embedded systems, and low-level programming. I am also independently studying cryptography, digital forensics, binary exploitation, mobile security, networking, and web application security.
 
-I value hands-on experimentation, systematic analysis, and clear technical documentation.
+I believe in learning by doing, understanding how systems work beneath the surface, and documenting technical findings clearly. I continuously improve my skills through independent study, experimentation, and competitive challenges.
 
 ## Competitive Experience
 
@@ -47,61 +47,67 @@ I value hands-on experimentation, systematic analysis, and clear technical docum
 - **Recorded Score:** 269 points during the competition
 - **Outcome:** Qualified for the in-person final stage
 
-**CTF Write-ups:** [Explore challenge analyses and supporting materials](https://github.com/amirali-cheraghi-cyber/olympics-ctf-2026-writeups)
+**CTF Write-ups:** [Explore challenge analyses and technical write-ups](https://github.com/amirali-cheraghi-cyber/olympics-ctf-2026-writeups)
 
 ## Technical Skills
+
+My technical knowledge has been developed primarily through **self-study, independent practice, documentation, and hands-on projects**. My experience and proficiency vary across topics, and I am actively expanding my knowledge.
 
 ### Programming & Computer Science
 
 - **Programming Languages:** Python, C, Go, JavaScript
 - **Databases:** SQL
 - **Web Technologies:** HTML, CSS, WordPress
-- **Foundations:** Programming, algorithms, and computational problem-solving
+- **Computer Science Foundations:** Programming fundamentals, algorithms, computational thinking, and problem-solving
 
 ### Cybersecurity
 
-- **Hardware & Firmware Security:** Learning microcontroller security, firmware analysis, and hardware-oriented security techniques
-- **Web Security:** Web application security and penetration-testing fundamentals
-- **Cryptography:** Cryptographic principles and security concepts
+- **Hardware & Firmware Security:** Microcontroller security concepts, firmware analysis, and hardware-oriented security research
+- **Cryptography:** Cryptographic fundamentals and security concepts
 - **Digital Forensics:** Digital evidence analysis and forensic investigation fundamentals
-- **Binary Exploitation:** Binary analysis, memory-corruption concepts, and exploit-development fundamentals
-- **Mobile Security:** Exploring Android security and mobile application analysis
-- **Networking:** Network fundamentals and security analysis
+- **Binary Exploitation:** Binary analysis, memory-corruption concepts, and introductory exploit-development concepts
+- **Mobile Security:** Android security fundamentals and mobile application analysis
+- **Web Security:** Web application security concepts and penetration-testing fundamentals
+- **Networking:** Network protocols, network fundamentals, and security analysis
 
-### Systems & Development Tools
+### Systems & Embedded Development
 
 - **Operating Systems:** Linux, Kali Linux, BlackArch Linux, macOS
-- **Embedded Systems:** Arduino, microcontrollers, and embedded-systems fundamentals
-- **Tools:** Git, GitHub, Visual Studio Code, PyCharm, Docker
+- **Embedded Systems:** Arduino, microcontrollers, and embedded development fundamentals
+- **Development Tools:** Git, GitHub, Visual Studio Code, PyCharm, Docker
+- **Technical Workflow:** Command-line tools, debugging, documentation, and practical experimentation
 
 ## Selected Projects
 
-### Tech Olympics CTF Write-ups
+### Tech Olympics 2026 — CTF Write-ups
 
-A public collection of CTF write-ups and supporting materials documenting challenge-solving approaches and technical analysis.
+A public collection of challenge write-ups and supporting materials documenting problem-solving approaches and technical analysis from the competition.
 
 [**View Repository →**](https://github.com/amirali-cheraghi-cyber/olympics-ctf-2026-writeups)
 
 ### CS50x — Introduction to Computer Science
 
-Coursework and programming exercises completed while studying foundational computer science concepts, programming, algorithms, and problem-solving.
+Coursework and programming exercises from Harvard University's CS50x online course, covering computer science fundamentals, programming, algorithms, data structures, and problem-solving.
 
 [**View Repository →**](https://github.com/amirali-cheraghi-cyber/harvard-CS50x-2026)
 
 ### Wi-Fi Security Research
 
-A public research repository focused on Wi-Fi security topics and technical exploration.
+A public research repository dedicated to exploring Wi-Fi security topics and documenting technical findings.
 
 [**View Repository →**](https://github.com/amirali-cheraghi-cyber/wifi-security-research)
 
 ## Education & Certification
 
-**CS50x: CS50's Introduction to Computer Science**  
-Harvard University — CS50 Online Course
+### CS50x: CS50's Introduction to Computer Science
 
-A foundational computer science course covering programming, algorithms, data structures, and problem-solving.
+**Harvard University — Online Course**
+
+Completed coursework covering fundamental computer science concepts, programming, algorithms, data structures, and problem-solving.
 
 **Certificate:** Listed on [my LinkedIn profile](https://linkedin.com/in/amirali-cheraghi-416888412).
+
+Alongside formal online coursework, I continue to develop my knowledge through independent study, technical documentation, experimentation, and project-based learning.
 
 ## Current Learning Focus
 
@@ -110,7 +116,18 @@ A foundational computer science course covering programming, algorithms, data st
 - Low-level programming and binary analysis
 - Cryptography and digital forensics
 - Mobile and web application security
-- Technical documentation and reproducible experimentation
+- Networking and security analysis
+- Improving technical documentation and reproducible research practices
+
+## Learning Approach
+
+I follow a self-directed learning process built around:
+
+- **Independent Study:** Learning from technical documentation, books, and educational resources
+- **Hands-on Practice:** Applying concepts through experiments, programming, and practical projects
+- **Problem-Solving:** Developing analytical skills through CTF challenges and technical exercises
+- **Documentation:** Recording findings, explaining solutions, and organizing knowledge
+- **Continuous Improvement:** Reviewing mistakes, refining techniques, and exploring new technical areas
 
 ## Contact
 
@@ -121,5 +138,5 @@ A foundational computer science course covering programming, algorithms, data st
 ---
 
 <p align="center">
-  <em>Learning through experimentation. Building through engineering. Improving through problem-solving.</em>
+  <em>Learning independently. Building through experimentation. Growing through problem-solving.</em>
 </p>
